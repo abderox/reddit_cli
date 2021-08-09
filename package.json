@@ -16,5 +16,8 @@
     "node-fetch": "^2.6.1",
     "open": "^8.2.1",
     "yargs": "^17.1.0"
+  },
+  "publishConfig": {
+    "@abderox:registry": "https://npm.pkg.github.com"
   }
 }
